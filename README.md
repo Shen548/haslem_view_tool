@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+@copyright = HaslemViewTool::Renderer.copyright 'Shaun Haslem', 'All Rights Reserved'
+```
 
 ## Development
 
